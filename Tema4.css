@@ -1,0 +1,28 @@
+/* Tema4 css */
+h1 {
+    text-align: center;
+}
+
+body {
+    background-image: url(https://www.financialexpress.com/wp-content/uploads/2022/07/Yes-Bank-Logo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+span {
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: cornflowerblue;
+    text-decoration: underline;
+}
+
+div.container1 {
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+}
+
+div.col {
+    padding: 50px;
+}
